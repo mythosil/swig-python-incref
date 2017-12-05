@@ -1,0 +1,6 @@
+*.o
+*.so
+incref.py
+incref.pyc
+incref_wrap.c
+__pycache__/
